@@ -12,11 +12,11 @@
 
 ## Team Members | C23-PS196
 
-| Name                    | Student ID  |               Path |
-| :---------------------- | :---------: | -----------------: |
-| Faizah Mappanyompa      | M177DSY0412 |   Machine Learning |
-| Igor Thaddeus           | M355DSX2138 |   Machine Learning |
-| Hanif Widi Prasetyo     | C172DSX4858 |    Cloud Computing |
-| Muhammad Azhar Tawakkal | C177DSX0705 |    Cloud Computing |
-| Gregorian Margono       | A163DSX3038 | Mobile Development |
-| Ahmad Ghoni Arrozaq     | A274DSX1222 | Mobile Development |
+| Name                                                                                         | Student ID  |        Path        |
+| :------------------------------------------------------------------------------------------- | :---------: | :----------------: |
+| <a href="https://www.linkedin.com/in/faizahmp/">Faizah Mappanyompa</a>                       | M177DSY0412 |  Machine Learning  |
+| <a href="https://www.linkedin.com/in/igorthaddeus/">Igor Thaddeus</a>                        | M355DSX2138 |  Machine Learning  |
+| <a href="https://www.linkedin.com/in/hanif-widi-prasetyo-aa15b0224/">Hanif Widi Prasetyo</a> | C172DSX4858 |  Cloud Computing   |
+| <a href="https://www.linkedin.com/in/muhazhartawakkal/">Muhammad Azhar Tawakkal</a>          | C177DSX0705 |  Cloud Computing   |
+| <a href="https://www.linkedin.com/in/gregorian-mg/">Gregorian Margono</a>                    | A163DSX3038 | Mobile Development |
+| <a href="https://www.linkedin.com/in/ahmadghoni/">Ahmad Ghoni Arrozaq</a>                    | A274DSX1222 | Mobile Development |
